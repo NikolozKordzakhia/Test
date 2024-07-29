@@ -1,0 +1,2 @@
+def nick():
+  pass
