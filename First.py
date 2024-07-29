@@ -3,3 +3,9 @@ def func():
 
 def aaa():
   pass
+
+def funccc():
+  pass
+
+def aaaaa():
+  pass
